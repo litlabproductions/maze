@@ -1,7 +1,30 @@
 # MAZE
-## 2D Hyper-Casual
+  
+### 2D Mobile Game
+#### Dash between a MAZE of obstacles in this hyperspace mobile adventure   
+<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
+<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
+[Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)
 
-![maze_gif2](https://user-images.githubusercontent.com/34845402/51737792-4fc8c980-2042-11e9-9361-b11b03e5af19.gif)
+<br>
 
-### Get it on GooglePlay:
-### https://play.google.com/store/apps/details?id=com.LitLabProductions.Maze&hl=en
+***
+
+
+##### Find constant updates here: https://www.instagram.com/litlabproductions/
+
+
+***
+
+<br/>
+Thanks for reading!<br/><br/>
+ 
+If you like what you see give this repo  
+a star and share it with your friends.
+
+Your support is greatly appreciated!<br/><br/>
+
+
+[***David Guido***](https://www.litlabproductions.com/resume-view) :rocket:  
+[***Lit Lab Productions***](https://www.litlabproductions.com)
+<br/><br/>
