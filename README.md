@@ -4,7 +4,12 @@
 #### Dash between a MAZE of obstacles in this hyperspace mobile adventure   
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
-[Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)
+[Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)<br><br>
+***
+#### Try it here:
+
+1. [***www.litlabproductions.com/maze***](https://www.litlabproductions.com/maze)
+2. [***simmer.io/@LitLabProd/maze***](https://simmer.io/@LitLabProd/maze)
 
 ***
 <br/><br/>
