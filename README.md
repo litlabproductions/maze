@@ -1,6 +1,6 @@
 # MAZE
   
-### 2D Mobile game
+### 2D Mobile Game
 #### Dash between a MAZE of obstacles in this hyperspace mobile adventure   
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
