@@ -12,17 +12,19 @@
 2. [***simmer.io/@LitLabProd/maze***](https://simmer.io/@LitLabProd/maze)
 
 ***
-<br/><br/>
-![maze-demo-opt-00](https://user-images.githubusercontent.com/34845402/131191641-10583346-01f5-4f54-a1de-e48b26560ad5.gif)
-![maze-demo-opt-01](https://user-images.githubusercontent.com/34845402/131191675-8e7eab51-cd93-4dc0-95d6-f16b2b4d5559.gif)
-![maze-demo-opt-02](https://user-images.githubusercontent.com/34845402/131191686-ad7d5210-39af-4707-b17a-d301f9fb3437.gif)
-![maze-demo-opt-03](https://user-images.githubusercontent.com/34845402/131191694-8f6977dd-3f5d-4a15-83df-f9ef9343e2dc.gif)
-![maze-demo-opt-04](https://user-images.githubusercontent.com/34845402/131191699-950a980c-742f-49b0-b0ef-51fe6db602b6.gif)
+<br><br>
+![maze-logo-resize01](https://user-images.githubusercontent.com/34845402/131579777-3a850564-05b3-4245-9d3a-014d3511a616.png)
 <br>
-
+***
+<br><br>![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif)<br><br><br>
+***
+<br><br>![maze-proto](https://user-images.githubusercontent.com/34845402/131581278-3ddcee10-a113-45e5-8622-1ccc80212b45.png)<br><br>
+***
+<br><br>![maze-demo-00](https://user-images.githubusercontent.com/34845402/131578141-7529755d-acff-4d80-81cf-71030172e6d7.gif)&nbsp;&nbsp;
+![maze-demo-01](https://user-images.githubusercontent.com/34845402/131578142-1211947e-86e6-4982-b3c6-93147297ae46.gif)&nbsp;&nbsp;
+![maze-demo-02](https://user-images.githubusercontent.com/34845402/131578147-423bd080-8245-43ef-bb80-8f6eb7a361f9.gif)<br><br>
 ***
 
-<br/>
 Thanks for reading!<br/><br/>
  
 If you like what you see give this repo  
