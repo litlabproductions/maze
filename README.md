@@ -27,19 +27,15 @@
 ***
 <br><br>
 ![maze-logo-resize01](https://user-images.githubusercontent.com/34845402/131579777-3a850564-05b3-4245-9d3a-014d3511a616.png)
-<br>
-***
-<br><br>
 
-![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif) <br><br><br><br>
- 
- 
+<br>
+
 ## Objective 
 
 ### Collect Points
   * **Fire Orbs**
       * One point is gained for each fire orb collected <br><br>
-![maze-demo-00](https://user-images.githubusercontent.com/34845402/131578141-7529755d-acff-4d80-81cf-71030172e6d7.gif)
+![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif)
 <br><br><br>
 
   * **Traverse Space**
