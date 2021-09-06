@@ -14,6 +14,7 @@
     - [Collect Points](#collect-points)
     - [Avoid Objects](#avoid-objects)
   - [Development](#development)
+    - [Randomized Environment](#randomized-environment)
     - [Movement and Collision](#movement-and-collision)
     - [Color Pallete](#color-pallete)
 ***
@@ -55,7 +56,9 @@
 
 ## Development
 
-### Environment <br><br>
+### Randomized Environment <br><br>
+   * For each screen space, two random obstacle prefabs are spawned just ahead of the top of the screen. Because of this, no two games will ever be identical <br><br>
+![random-env](https://user-images.githubusercontent.com/34845402/132150061-a1c6b8e2-1960-420d-baf1-f6e57a5d6166.png)<br><br><br>
 
 
 ### Movement and Collision <br><br>
@@ -77,10 +80,12 @@
 ![color-pal](https://user-images.githubusercontent.com/34845402/132147267-da4f1390-3395-4a06-8853-d21d50778539.png)
 <br><br>
 ![maze-home](https://user-images.githubusercontent.com/34845402/132147388-fed30566-2d58-4330-8c2f-7613e9e4477e.png)
-<br><br>
+<br><br><br>
      
      
 ***
+
+<br><br>
 Thanks for reading!<br/><br/>
  
 If you like what you see give this repo  
