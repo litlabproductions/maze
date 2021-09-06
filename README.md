@@ -39,7 +39,8 @@
 <br><br><br>
 
   * **Traverse Space**
-      * One point is gained for each distance traveled equal to vertical screen length <br><br>
+      * One point is gained for each distance traveled equal to vertical screen length
+      * The speed of the screen is incrementally increased for every point obtained by the player <br><br>
 ![2](https://user-images.githubusercontent.com/34845402/132146018-43a59149-2371-4a82-89d5-a08b808f5dec.png)
 <br><br><br>
 
