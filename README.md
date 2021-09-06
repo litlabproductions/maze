@@ -35,7 +35,6 @@
  
  
 ## Objective 
-<br>
 
 ### Collect Points
   * **Fire Orbs**
@@ -51,22 +50,24 @@
 ### Avoid Objects 
   * Don't collide with objects **(other than fire orbs)** or its game over! <br><br>
 ![maze-demo-02](https://user-images.githubusercontent.com/34845402/131578147-423bd080-8245-43ef-bb80-8f6eb7a361f9.gif) <br>
-<br><br><br><br>
+<br><br>
 
+***
+<br>
 
 ## Development
 
-### Randomized Environment <br><br>
+### Randomized Environment 
    * For each screen space, two random obstacle prefabs are spawned just ahead of the top of the screen. Because of this, no two games will ever be identical <br><br>
 ![random-env](https://user-images.githubusercontent.com/34845402/132150061-a1c6b8e2-1960-420d-baf1-f6e57a5d6166.png)<br><br><br>
 
 
-### Movement and Collision <br><br>
-   * The players particle is first fine-tuned for proper feel <br><br>
+### Movement and Collision 
+   * The players particle is fine-tuned for proper feel <br><br>
 ![maze-proto01](https://user-images.githubusercontent.com/34845402/131583225-f4b54127-b7d3-4956-b6b0-6c276a81a5e4.gif) &nbsp;&nbsp;
 ![move](https://user-images.githubusercontent.com/34845402/132148820-e8f4f6de-0539-47b7-83ed-8ebe6bb580c9.png)<br><br><br>
 
-   * A **BoxCollider2D** is then attached to the frame of the screen 
+   * Four **BoxCollider2D** components are added to the frame of the screen 
    * After a collision occurs, **Die()** is called on the player particle <br><br>
 ![maze-proto00](https://user-images.githubusercontent.com/34845402/131583224-6f6b0f01-a1c3-4786-bb94-fa530c0dbb51.gif)&nbsp;&nbsp;
 ![die](https://user-images.githubusercontent.com/34845402/132148818-f410accc-7d13-4c63-a68d-22ddf7889011.png)<br><br><br>
